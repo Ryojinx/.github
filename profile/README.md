@@ -11,6 +11,7 @@
 [![Latest release](https://img.shields.io/github/v/release/Ryojinx/Ryojinx)](https://github.com/Ryojinx/Ryojinx/releases/latest)
   <br>
   Canary workflow/releases not avaliable!
+  <br>
 [![Canary workflow](https://github.com/Ryojinx/Ryojinx/actions/workflows/canary.yml/badge.svg)](https://github.com/Ryojinx/Ryojinx/actions/workflows/canary.yml)
 [![Latest canary release](https://img.shields.io/github/v/release/Ryojinx/Canary-Releases?label=canary)](https://github.com/Ryojinx/Canary-Releases/releases/latest)
 <p align="center">
